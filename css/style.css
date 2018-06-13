@@ -1,0 +1,286 @@
+body {
+    background-color: darkslategray;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: darkslategray;
+    padding-left: 10px;
+    margin-top: 0;
+    text-align: center;
+    border-bottom: 12px solid aquamarine;
+}
+
+header #owner, #home {
+    color: mintcream;
+    font-size: 17px;
+}
+
+header h1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: mintcream;
+    text-align: center;
+}
+
+header ul li {
+    list-style: none;
+    display: inline;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: mintcream;
+    font-weight: bold;
+}
+
+.logo {
+    background: url("../images/logo.PNG") no-repeat center;
+    height: 200px;
+    background-color: dodgerblue;
+    border-bottom: 20px solid white;
+}
+
+#join {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 60px;
+    background-color: darkslategray;
+    border: 4px solid aquamarine;
+    border-radius: 15px 15px 0 0;
+    border-bottom: 8px solid aquamarine;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.container {
+    background-color: dodgerblue;
+    height: 550px;
+}
+
+/*Start of the first info box*/
+.info1 {
+    text-align: center;
+    float: left;
+    width: 30%;
+    border-right: 10px solid white;
+    padding-right: 20px;
+    border-bottom: 5px solid white;
+    border-radius: 0 0 10px 0;
+}
+
+.info1 img {
+    padding-right: 15px;
+    padding-top: 35px
+}
+
+.beststaff {
+    color: white;
+    font-size: 20px;
+}
+
+.beststaffinfo {
+    color: white;
+    font-size: 17px;
+}
+/*End of the first info box*/
+
+/*Start of the second info box*/
+.info2 {
+    text-align: center;
+    float: right;
+    width: 30%;
+    border-left: 10px solid white;
+    padding-right: 20px;
+    border-bottom: 5px solid white;
+    border-radius: 0 0 0 10px;
+}
+
+.info2 img {
+    padding-right: 15px;
+    padding-top: 25px
+}
+
+.devs {
+    color: white;
+    font-size: 20px;
+}
+
+.devinfo {
+    color: white;
+    font-size: 17px;
+}
+/*End of the second info box*/
+
+/*Start of the third info box*/
+.info3 {
+    text-align: center;
+    float: right;
+    width: 100%;
+    padding-right: 40px;
+    border-top: 5px solid white;
+    border-bottom: 10px solid white;
+    border-radius: 0 0 0 10px;
+}
+
+.info3 img {
+    padding-right: 15px;
+    padding-top: 50px
+}
+
+.bot {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.botinfo {
+    color: white;
+    font-size: 17px;
+}
+
+.seekname {
+    font-weight: bold;
+}
+
+.botinfo a {
+    color: white;
+    text-decoration: none;
+}
+
+.botinfo a:hover {
+    text-decoration: underline;
+    color: #2C2F33;
+}
+/*End of the third info box*/
+
+.owninfo {
+    color: mintcream;
+    text-align: center;
+}
+
+#ownercon {
+    width: 100%;
+}
+
+.seek {
+    width: 51%;
+    border-right: 5px solid aquamarine;
+    height: 645px;
+    text-align: center;
+    float: left;
+}
+
+.seek h1 {
+    font-size: 30px;
+    color: mintcream;
+}
+
+.seek img {
+    padding-top: 20px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#sinfo {
+    width: 500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thaum {
+    width: 45%;
+    height: 645px;
+    text-align: center;
+    float: right;
+}
+
+.thaum h1 {
+    font-size: 30px;
+    color: mintcream;
+}
+
+.thaum img {
+    padding-top: 20px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#tinfo {
+    width: 500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Start of the footer*/
+
+footer {
+    color: white;
+    text-align: center;
+    padding-top: 14px;
+    clear: both;
+}
+
+footer .link1 {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer .link1:hover {
+    text-decoration: underline;
+}
+
+.ownerfoot {
+    color: black;
+    text-align: center;
+    padding-top: 14px;
+    clear: both;
+    background-color: mintcream;
+    border-top: 3px solid aquamarine;
+}
+
+.ownerfoot .link1 {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.ownerfoot .link1:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
